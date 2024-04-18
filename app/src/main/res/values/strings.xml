@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">YZEC</string>
+    //first page UI
+    <string name="app_logo">YZEC_logo</string>
+    <string name="made_by">Made By</string>
+    <string name="app_maker">WizaRD</string>
+    //sign up UI
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="already_account">Already have an account? Login</string>
+    //login UI
+    <string name="login_button">Login</string>
+    <string name="create_account">Create a new account</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="film">Film</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_post">Add Post</string>
+    <string name="add_film">Add Film</string>
+    <string name="new_post_title">New Post</string>
+    <string name="write_a_caption">Write a caption</string>
+    <string name="this_post_will_appear_in_posts_and_can_be_seen_from_profile">This post will appear in Posts and can be seen from Profile</string>
+    <string name="this_film_will_appear_in_film_and_can_be_seen_from_profile">This film will appear in Films and can be seen from Profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_film_from_gallery">Select Film from Gallery</string>
+    <string name="deafult_film_caption">This is my temporary data</string>
+
+
+</resources>

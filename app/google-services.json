@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221125538545",
+    "project_id": "yzec-d6456",
+    "storage_bucket": "yzec-d6456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221125538545:android:b126ea7dfb9907c4ad2f50",
+        "android_client_info": {
+          "package_name": "com.wizprojects.yzec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkpWBNrJJxHMBdQmb2vvIZthwGB5axenE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
